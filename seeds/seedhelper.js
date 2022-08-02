@@ -1,0 +1,24 @@
+ module.exports.first=[
+    "lake",
+    "mountain",
+    "tiger",
+    "bird",
+    "fire",
+    "sweet",
+    "creed",
+    "campy",
+    "dusty",
+    "roaring",
+    "tumbling"
+]
+
+module.exports.second=[
+    "creek",
+    "view",
+    "ground",
+    "side",
+    "cliff",
+    "base",
+    "camp",
+    "canopy"
+]
